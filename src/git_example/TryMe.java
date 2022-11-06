@@ -10,5 +10,6 @@ public class TryMe {
 		Scanner scanner = new Scanner(System.in);
 		String word = scanner.nextLine();
 		System.out.println("Hello, " + word + "!");
+		System.out.println("end one way");
 	}
 }
