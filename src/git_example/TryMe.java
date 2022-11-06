@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TryMe {
 	public static void main(String[] args) {
-		System.out.println("knol");
+		System.out.println("knol"); 
 		System.out.print("Say a word: ");
 		Scanner scanner = new Scanner(System.in);
 		String word = scanner.nextLine();
